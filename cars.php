@@ -65,11 +65,6 @@ class Car
     {
         return $this->pin;
     }
-
-//    public function getFuelUse()
-//    {
-//        $this->fuelUse;
-//    }
 }
 
 $volvo = new Car("Volvo", "LV5555", 50, "1111");
