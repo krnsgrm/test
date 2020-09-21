@@ -1,6 +1,6 @@
 <?php
 
-namespace spices;
+namespace Spices;
 
 class Salt
 {

@@ -1,9 +1,10 @@
 <?php
 
+namespace Spices;
+
 class Pepper
 {
     private string $pepper;
-
 
     public function __construct(string $pepper)
     {

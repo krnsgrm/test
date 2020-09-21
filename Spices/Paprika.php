@@ -1,5 +1,7 @@
 <?php
 
+namespace Spices;
+
 class Paprika
 {
     private string $paprika;
